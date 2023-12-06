@@ -1,7 +1,6 @@
 <template>
   <footer>
     <p>&copy; 2023 My Company</p>
-    <!-- その他のフッターコンテンツ -->
   </footer>
 </template>
 
